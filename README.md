@@ -7,6 +7,10 @@ Os dados ficam salvos em uma **planilha do Google Sheets**, o que facilita para 
 
 > **Resultado:** o desafio durou **30 dias** e teve **120 usuários ativos** fazendo check-in pelo app.
 
+<p align="center">
+  <img src="docs/demo.gif" alt="Demonstração do app: busca do nome, check-in dos hábitos, calendário semanal e resumo do mês" width="300">
+</p>
+
 ---
 
 ## Funcionalidades
