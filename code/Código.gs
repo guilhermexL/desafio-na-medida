@@ -11,7 +11,7 @@ function doGet() {
   return htmlOutput;
 }
 
-var ID_PLANILHA = "1qyWPfFqkqTDSGSjGakNkUhLCB5L1xhOL6ELowDpk7qI";
+var ID_PLANILHA = "";
 
 function salvarRegistro(dados) {
   try {
